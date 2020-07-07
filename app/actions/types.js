@@ -1,0 +1,14 @@
+export const GET_DEALS = 'GET_DEALS';
+export const GET_DEAL_DETAILS = 'GET_DEAL_DETAILS';
+export const CHANGE_TAB = 'CHANGE_TAB';
+export const GET_CONTENT = 'GET_CONTENT';
+export const REGISTER_USER = 'REGISTER_USER';
+export const BASIC_AUTH = 'BASIC_AUTH';
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_TRANSACTIONS = 'GET_TRANSACTIONS';
+export const GET_NOTIFICATIONS = 'GET_NOTIFICATIONS';
+export const GET_NEW_NOTIFICATIONS = 'GET_NEW_NOTIFICATIONS';
+export const GET_CREDITPACK = 'GET_CREDITPACK';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const SEARCH_DEALS = 'SEARCH_DEALS';
+
